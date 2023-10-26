@@ -1,5 +1,6 @@
 ## Raffle Entries:
 ---
+- Ragni
 - Shania Sheth
 - Logan J
 - Steven
