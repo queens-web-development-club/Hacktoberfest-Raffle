@@ -1,5 +1,6 @@
 ## Raffle Entries:
 ---
+- Simon Nair
 - Antony Li
 - Owen Gimbel
 - Ghaith Khalil
