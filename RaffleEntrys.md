@@ -1,5 +1,6 @@
 ## Raffle Entries:
 ---
+Logan J
 - Steven
 - Mukunthan 
 - Audrey
