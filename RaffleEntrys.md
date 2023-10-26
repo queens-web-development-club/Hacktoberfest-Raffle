@@ -1,6 +1,6 @@
 ## Raffle Entries:
----
-Logan J
+- Shania Sheth
+- Logan J
 - Steven
 - Mukunthan 
 - Audrey
