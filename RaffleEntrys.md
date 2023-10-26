@@ -1,5 +1,6 @@
 ## Raffle Entries:
 ---
+- Steven
 - Mukunthan 
 - Audrey
 - Cynthia
