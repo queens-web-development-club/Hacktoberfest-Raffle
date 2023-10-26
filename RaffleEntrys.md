@@ -1,6 +1,7 @@
 ## Raffle Entries:
 ---
 - Cynthia
+- Matthew
 - Kristen
 - Simon Nair
 - Antony Li
@@ -12,3 +13,4 @@
 - Josh
 - Sky
 - Andrew Choim
+- Dima
