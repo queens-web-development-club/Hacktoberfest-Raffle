@@ -1,4 +1,21 @@
 ## Raffle Entries:
 ---
-
 - Steven
+- Mukunthan 
+- Audrey
+- Cynthia
+- Matthew
+- Kristen
+- Simon Nair
+- Antony Li
+- Owen Gimbel
+- Ghaith Khalil
+- Yuchen Lin
+- Siddharth
+- Aryan
+- Josh
+- Sky
+- Ronald
+- Andrew Choim
+- Dima
+- Anthony G
