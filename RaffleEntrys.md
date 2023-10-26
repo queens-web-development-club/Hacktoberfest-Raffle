@@ -1,5 +1,6 @@
 ## Raffle Entries:
 ---
+- Cynthia
 - Matthew
 - Kristen
 - Simon Nair
