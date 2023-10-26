@@ -1,2 +1,6 @@
 ## Raffle Entries:
+
 ---
+
+- Josh
+- Sky
