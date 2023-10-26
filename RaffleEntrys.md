@@ -23,5 +23,6 @@
 - Dima
 - Darien
 - Anthony G
+- CHARLIE GUARASCI
 - Yash E
 - Colin Ko
