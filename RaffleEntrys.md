@@ -26,3 +26,4 @@
 - CHARLIE GUARASCI
 - Yash E
 - Colin Ko
+- Daniel W
