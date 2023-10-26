@@ -14,6 +14,7 @@
 - Aryan
 - Josh
 - Sky
+- Ronald
 - Andrew Choim
 - Dima
 - Anthony G
