@@ -1,4 +1,4 @@
 ## Raffle Entries:
-Simon Nair
 ---
 
+- Simon Nair
