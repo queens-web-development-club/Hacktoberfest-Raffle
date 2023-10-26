@@ -1,5 +1,10 @@
 ## Raffle Entries:
 ---
+- Steven
+- Mukunthan 
+- Audrey
+- Cynthia
+- Matthew
 - Kristen
 - Simon Nair
 - Antony Li
@@ -10,6 +15,8 @@
 - Aryan
 - Josh
 - Sky
+- Ronald
 - Andrew Choim
 - Dima
 - Darien
+- Anthony G
