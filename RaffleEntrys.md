@@ -1,7 +1,10 @@
 ## Raffle Entries:
 ---
-<<<<<<< HEAD
-=======
+- Shania Sheth
+- Logan J
+- Steven
+- Mukunthan 
+- Audrey
 - Cynthia
 - Matthew
 - Kristen
@@ -14,7 +17,10 @@
 - Aryan
 - Josh
 - Sky
+- Ronald
 - Andrew Choim
 - Dima
+- Darien
 - Anthony G
 - Yash E
+- Colin Ko
