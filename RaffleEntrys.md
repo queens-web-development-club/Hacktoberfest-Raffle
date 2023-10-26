@@ -1,4 +1,5 @@
 ## Raffle Entries:
+---
 - Shania Sheth
 - Logan J
 - Steven
@@ -21,4 +22,5 @@
 - Dima
 - Darien
 - Anthony G
+- Yash E
 - Colin Ko
